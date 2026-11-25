@@ -347,8 +347,11 @@
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
   </assembly>
   <assembly fullname="YULE.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="YULE.Core.Managers.CountdownManager" preserve="all" />
     <type fullname="YULE.Core.Managers.PasswordManager" preserve="all" />
+    <type fullname="YULE.Core.Records.CountdownRecord" preserve="all" />
     <type fullname="YULE.Core.Records.PasswordRecord" preserve="all" />
+    <type fullname="YULE.Core.UI.CountdownUI" preserve="all" />
     <type fullname="YULE.Core.UI.PasswordInputUI" preserve="all" />
   </assembly>
   <assembly fullname="Celeste.Logic.Runtime">
